@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="nxtgen_driver_node" pkg="roboteq_nxtgen_controller" type="nxtgen_driver_node">
+  <param name="acceleration" type="int" value="2000" />
+  <param name="deceleration" type="int" value="2000" />
+  <param name="command_linearity" type="int" value="0" />
+</node>
+\endverbatim
+
