@@ -1,0 +1,8 @@
+prefix=/home/rufus/dual_diff_drive_ws/install
+
+Name: dual_diff_drive
+Description: Description of dual_diff_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rufus/dual_diff_drive_ws/install/lib 
+Requires: 
