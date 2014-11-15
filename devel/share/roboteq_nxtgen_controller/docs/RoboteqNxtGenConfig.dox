@@ -1,8 +1,0 @@
-\subsubsection parameters ROS parameters
-
-Reads and maintains the following parameters on the ROS server
-
-- \b "~acceleration" : \b [int] The acceleration in 0.1 * RPM/s for both motor channels. min: 0, default: 2000, max: 65535
-- \b "~deceleration" : \b [int] The deceleration in 0.1 * RPM/s for both motor channels. min: 0, default: 2000, max: 65535
-- \b "~command_linearity" : \b [int] Command input transformation. min: 0, default: 0, max: 6
-

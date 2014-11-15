@@ -1,8 +1,0 @@
-prefix=/home/rufus/dual_diff_drive/install
-
-Name: roboteq_nxtgen_controller
-Description: Description of roboteq_nxtgen_controller
-Version: 0.2.0
-Cflags: -I/home/rufus/dual_diff_drive/install/include
-Libs: -L/home/rufus/dual_diff_drive/install/lib -lRoboteqDevice -lnxtgen_driver
-Requires: dynamic_reconfigure roscpp
